@@ -1,17 +1,17 @@
 # Simple Todo App
 
-Give a brief description of the project here. Feel free to give it a different name.
+Simple Todo App is an easy to use, web-browser To-Do list maker.
 
 ## Functionality
 
-Give a more detailed explanation of the project and its functionality.
+Users are able to create To-Do lists and optionally add deadlines for each To-Do list item.
 
 ## Technology
 
-Give a description of the technologies and techniques used. Pictures, GIFs, or screenshots that detail the project features are recommended.
+This project uses HTML, CSS, and JS (using Object-Oriented Programming practices).
 
 ## Deployment
 
 This project is deployed on GitHub Pages:
 
-- ADD LINK HERE
+- [GitHub Pages Link](https://scottstraube.github.io/se_project_todo-app/)
