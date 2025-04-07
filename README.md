@@ -9,6 +9,7 @@ Users are able to create To-Do lists and optionally add deadlines for each To-Do
 ## Technology
 
 This project uses HTML, CSS, and JS (using Object-Oriented Programming practices).
+![Simple Todo App](image.png)
 
 ## Deployment
 
